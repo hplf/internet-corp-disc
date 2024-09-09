@@ -3,4 +3,4 @@
 
 | corp                 | site     | work time             |
 | -------------------- | -------- | --------------------- |
-| https://www.fabu.ai/ | Hangzhou | Mon.~Wed.:9:00~21:00 |
+| https://www.fabu.ai/ | Hangzhou | 9:00~21:00 |
